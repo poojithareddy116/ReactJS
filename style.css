@@ -1,0 +1,28 @@
+.body{
+    background-color: rgb(220, 225, 226);
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px 352px;
+    margin: 30px
+}
+
+.inside{
+    background-color: white;
+    border-radius: 10px; 
+}
+
+.image{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px 10px 0px 0px;    
+}
+
+.info{
+    text-align: left;
+    margin-left: 15px; 
+}
+
+.buttons{
+    color: #0f0fe7;
+    padding: 30px 50px 20px 0px;
+}
